@@ -1,3 +1,7 @@
+// ************************
+// 326538022
+// itay.alexandrov@gmail.com
+// ************************
 #include <SFML/Graphics.hpp>
 #include "TreeVisualization.hpp"
 #include "tree.hpp"
