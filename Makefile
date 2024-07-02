@@ -1,3 +1,7 @@
+// ************************
+// 326538022
+// itay.alexandrov@gmail.com
+// ************************
 CXX = g++
 CXXFLAGS = -std=c++11
 LDFLAGS = -lsfml-graphics -lsfml-window -lsfml-system
