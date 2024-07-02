@@ -1,3 +1,7 @@
+// ************************
+// 326538022
+// itay.alexandrov@gmail.com
+// ************************
 #ifndef NODE_HPP
 #define NODE_HPP
 
